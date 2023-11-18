@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amith E K</h1>
 <h3 align="center">A passionate Data Scientist,Analyst from India</h3>
 
-- 🔭 I’m currently working on **chatbot**
+- 🔭 I’m currently working on **FitFuel**
 
 - 🌱 I’m currently learning **NLP,react**
 
