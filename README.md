@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amith7025](https://github.com/amith7025)
 
-- 💬 Ask me about **Machine learning,deep learning,AI,Natural language processing**
+- 💬 Ask me about **Machine learning,deep learning,AI,Natural language processing,Reinforcement learning**
 
 - 📫 How to reach me **amithajith7025@gmail.com**
 
