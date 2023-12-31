@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amith E K</h1>
 <h3 align="center">A passionate Data Scientist,Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amith7025&label=Profile%20views&color=0e75b6&style=flat" alt="amith7025" /> </p>
-
 <p align="left"> <a href="https://twitter.com/amith7025" target="blank"><img src="https://img.shields.io/twitter/follow/amith7025?logo=twitter&style=for-the-badge" alt="amith7025" /></a> </p>
 
 - 🔭 I’m currently working on **Reinforcement Learning**
